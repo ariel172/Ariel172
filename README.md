@@ -101,5 +101,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&width=435&lines=Stay+curious.+Keep+hacking.🚀)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Crafted%20with%20⚡%20by%20Yamien%20Ariel&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=80&section=footer&text=Crafted%20with%20⚡%20by%20Yamien%20Ariel&fontSize=20" />
 </p>
