@@ -76,7 +76,7 @@
 ### 📊 GitHub War Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariel172&show_icons=true&theme=dark&hide_border=true&border_radius=0" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariel172&theme=black-ice&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariel172&theme=black-ice&hide_border=true" alt="Streak"/>
 </div>
 
 <div align="center">
